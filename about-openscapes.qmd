@@ -2,12 +2,21 @@
 title: "Openscapes"
 ---
 
+## Openscapes approach
+
 [Openscapes](https://openscapes.org) champions open, inclusive practices in environmental and Earth science to help uncover data-intensive solutions faster. We do this through our flagship Champions mentorship program, as well as through community organizing, training, and coaching, leveraging existing resources from open communities along with our own.
 
 Our [flywheel](https://www.jimcollins.com/concepts/the-flywheel.html) shows our approach to engaging, empowering, and amplifying research communities in open data science --- how we describe kinder, better science in less time.
 
 [![Figure 1 from Robinson & Lowndes 2022. The Openscapes Flywheel builds momentum as a culture change engine as We engage a Future Us mindset through welcoming and creating space and place, we Empower a learning culture by investing in learning and trust, and working openly, and we amplify open leaders by leveraging common open data science workflows, skills and tools and inspire broader scientific culture change. And the Flywheel turns again.](images/openscapes-flywheel-v2023.06.png){fig.alt="Openscapes flywheel shows 6 points around a hexagon: Welcome; Create space and place; Invest in learning and trust; Work openly; Leverage common workflows, skills, and tools; and Inspire. There are three phases that categorize these Flywheel points. Phase 1: Engage = Welcome; Create space and place; Phase 2: Empower = Invest in learning and trust; Work openly; Phase 3: Amplify = Leverage common workflows, skills, and tools; and Inspire."}](https://openscapes.org)
 
+## Our work
+
+Along with NOAA Fisheries, we are proud to work with many teams leading and supporting research, including NASA, California EPA Water Boards, Fred Hutch, the Pathways to Open Science Program. Learn more about these initiatives on our website: [openscapes.org/initiatives](https://openscapes.org/initiatives). 
+
+A few recent talks highlighting NOAA Fisheries with these other collaborators, see [Cross-government Openscapes presentations](media.qmd#sec-cross-gov-slides).
+
+## Learn more
 
 Robinson & Lowndes 2022. [The Openscapes Flywheel: A framework for managers to facilitate and scale inclusive Open science practices](https://eartharxiv.org/repository/view/4560/). Preprint
 

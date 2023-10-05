@@ -35,7 +35,23 @@ bibliography: references.bib
 
 [NWFSC Leadership](https://docs.google.com/presentation/d/1qyW3KcwxiKwBffjsJ-fMF0snG99ahqZAnfq2xDSRPdc/edit#slide=id.g1138e626848_0_861), Holmes, Ward, Scalliet, Lowndes. February 14, 2022.
 
+## Cross-government Openscapes presentations {#sec-cross-gov-slides}
+
+Here are some recent talks highlighting NOAA Fisheries work alongside other Openscapes collaborators. 
+
+- [Documenting things: openly for Future Us](https://openscapes.github.io/documenting-things) - September 19, 2023. Julie Lowndes, Posit Conf.
+- [NASA Openscapes: Open communities and continued learning](https://docs.google.com/presentation/d/1WmuGxoQF3V4eb15etUfmpwy-vzWPFl9ey9q5CtXwWts/edit?usp=sharing) - August 11, 2023. Julie Lowndes, ICESat-2 Hackweek
+- [Training for culture change in Open Science](https://grssieee.podbean.com/e/s4e10-down-to-earth-training-for-culture-change-in-open-science/) - June 18, 2023. Julie Lowndes & Erin Robinson, Down To Earth: A podcast for Geoscientists by Geoscientist.
+
+-   [NASA Openscapes: Movement building with the Flywheel](https://docs.google.com/presentation/d/1BK678MADRg6QkejRQI_5KREGn6DzzQqAS4StsjXmi-k/edit#slide=id.g1b5922f14f8_0_83) - March 31, 2023, Erin Robinson & Julie Lowndes. NASA Open Source Science Working Group
+
+-   [Communicating impact: NASA Openscapes](https://docs.google.com/presentation/d/14iEGfbipt5HBlVyyf3kvjyxas4lBoRlbT8u8iFr2VNw/edit#slide=id.g1b5922f14f8_0_83) - March 22 2023, Julie Lowndes, Erin Robinson, & Justin Rice. NASA ESDSWG Meeting, Baltimore Maryland
+
+
 ## Publications
+
+Lowndes et al. [Shifting institutional culture to develop climate solutions with Open Science](https://eartharxiv.org/repository/view/5948/), preprint, 2023.
+
 
 Bastille, Kimberly, Sean Hardison, Lynn deWitt, Jennifer Brown, Jameal Samhouri, Sarah Gaichas, Sean Lucey, et al. 2021. "Improving the IEA Approach Using Principles of Open Data Science." Coastal Management 49 (1): 72--89. <https://doi.org/10.1080/08920753.2021.1846155>.
 
