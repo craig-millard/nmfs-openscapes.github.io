@@ -48,20 +48,20 @@ The FY24 mentor cohort will start with a mentors-only Openscapes Champions cohor
 
 Date | Mentor Call Topics          
 ----| ----------------------
-10/17 | 1. Openscapes mindset for mentors: What does it mean to be a mentor? What does Open Science at NMFS mean?
-10/31 | 2. Common needs across the FMC: Reflect together on what needs/challenges are common across FMC for Open Science adoption? <!---(Pathways like but focused)--->
-11/14 | 3. The art of teaching skills <!---(guest lecture by Carpentries?); Guest lecture by Naomi from eScience about the anxiety that people experience and how to be a good mentor for someone. I am just brainstorming on this one!--->
-11/28 | 4. Facilitating discussions and developing team culture <!--- (lecture on the Openscapes method of facilitating discussions)? --->
-12/12 | 5. Developing strong Open and Collaborative Communities <!--- (guest presentation from someone at ESIP or presentation by Stef on rOpenSci approach?) --->
+10/17 | 1. Openscapes mindset for mentors: What does it mean to be a mentor? What does Open Science at NMFS mean? <!-- Julie is point -->
+10/31 | 2. Developing strong Open and Collaborative Communities <!--Stef is point: Stef Butland on the rOpenSci and rLadies -->
+11/14 | 3. The art of teaching skills: running GitHub clinics <!-- Eli is point: 5 min on the Women in Data Sci GitHub clinic; triads on talk, show, do --->
+11/28 | 4. Facilitating discussions and developing team culture <!--- Julie is point: lecture on the Openscapes method of facilitating discussions)? --->
+12/12 | 5. Developing technical tutorials and teaching colleagues <!-- Julie is point: Guest Alexis Hunzinger -->
 
 #### Seaside Chats
 
-**Seaside Chats** are for small-group coworking in weeks alternating between Mentor Calls. Topics are to reflect with your other center mentors in-between cross-center cohort calls. Note multiple FMCs can have Seaside chats together. Organize yourselves in a way that works for you.
+**Seaside Chats** are for small-group coworking in weeks alternating between Mentor Calls. Topics are to reflect with your other center mentors in-between cross-center cohort calls. Note particants from different centers or offices can have Seaside chats together. We will organize our Seaside chats after the first mentor calls. 
 
-Date | Seaside Chat topics
-----| ----------------------
-Week of 10/23 | Begin work on an Open Science Pathway for your FMC. Where are you at? Where would you like to be? Do you have the info you need to answer this?
-Week of 11/6  | Keep working Open Science Pathway with FMC specific discussions of needs/challenges
+Date | Seaside co-working sessions
+-----| -------------------
+Week of 10/23 | Begin work on an Open Science Pathway for your center, office or program. Where are you at? Where would you like to be? Do you have the info you need to answer this?
+Week of 11/6  | Keep working Open Science Pathway for your center, office or program with specific discussions of needs/challenges
 Week of 11/20 | Cross-FMC discussions of Open Science Pathways and work on shared organizing with GitHub
 Week of 12/4. | Discuss ideas and plans for coordinating & engaging staff in Open Science goals
 
