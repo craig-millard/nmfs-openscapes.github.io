@@ -1,33 +1,8 @@
 ---
-title: "NMFS Openscapes Mentor Community"
+title: "Current Activities"
 ---
 
-Starting in 2021, we have been growing an informal cross-NMFS mentor community; each science center and regional office participating in the Openscapes cohorts has 1-4 mentors that help organize the local cohorts, spearhead communication with with their local leadership, act as a point-person for interested local staff, help identify local needs, and help communicate, or potentially organize, teaching resources for their local staff. Openscapes organizes training and co-working sessions for the mentor group, so that we can all learn from each others experiences and learn new skills together.  
-
-## Mentors
-
-Organizers
-
-* Leads: Julie Lowndes and Stefanie Butland (Openscapes)
-* Co-Lead: Eli Holmes (NOAA Fisheries)
-
-FY23 NMFS Openscapes Mentor group
-
-* AFSC: Emily Markowitz, Josh London, Megsie Siple
-* NEFSC: Andy Jones, Scott Large
-* NWFSC: Eli Holmes, Eric Ward, Erin Steiner
-* PIFSC: Amanda Bradford, Juliette Verstaen
-* SEFSC: Adyan Rios, Molly Stevens
-* SWFSC: Kevin Stierhoff
-* OST: Christine Stawitz, Kathryn Doering
-
-# Mentor Community Activities 
-
-## FY24 Oct 2023 to Sept 2024
-
-FY24 will kick off our formal Openscapes mentors cohort for the fiscal year. The  mentors cohort will help guide the Open Data/Open Science/Reproducibility efforts for their FMC and act as mentors for Champions cohorts. The mentors cohort will act as the "Open Science leadership team" for NOAA Fisheries. Participation is year-long and will include leadership and mentoring training. The mentor group is modeled after the [NASA Openscapes Framework approach](https://openscapes.github.io/approach-guide/mentors-framework).   
-
-### October-December 2023: NMFS Mentors Cohort!
+## October-December 2023: NMFS Mentors Cohort!
 
 **Please join us: nominate yourself in [this Google Form](https://forms.gle/LJF9gTZCX7ThTzSm9) by Sept 23!**   
 **["Is this for me?" 5-min slides](https://docs.google.com/presentation/d/1cSLanri2GM_zKYgI4MzzSdwN1U6WIm01atInGeohTJw/edit?usp=sharing)**
@@ -36,7 +11,7 @@ Through facilitation and practical training for mentoring, teaching, and coachin
 
 The FY24 mentor cohort will start with a mentors-only Openscapes Champions cohort (facilated bi-weekly group meetings) during which Openscapes will guide the mentor cohort in discussing the needs and challenges for adoption of Open Science in NMFS and to develop actions to take. The facilitated meeting are vitual and twice monthly. Mentors will also collaborate asynchronously (e.g. Google Chat, GitHub). During the fall session, mentors will learn and practice coaching and mentoring skills in preparation for the winter Champions cohorts. We will also start identifying cross-center roadblocks that mentors can collaborate on throughout the next years. 
 
-#### Proposed timeline & topics  
+### Timeline & topics {#sec-timeline} 
 
 - **Dates: Twice monthly starting October 17, 2023** 
 - **Times: 12:00 - 1:30pm PT / 3:00 - 4:30 pm ET** < note revised time
@@ -65,6 +40,8 @@ Week of 11/6  | Keep working Open Science Pathway for your center, office or pro
 Week of 11/20 | Cross-FMC discussions of Open Science Pathways and work on shared organizing with GitHub
 Week of 12/4. | Discuss ideas and plans for coordinating & engaging staff in Open Science goals
 
+## Previous Activities
+
 ### January-June 2023
 
 From January-May through our bi-weekly meetings we are learning coaching skills with Tara Robertson, a DEI consultant and leadership coach who has [worked with Openscapes since 2021](https://www.openscapes.org/blog/2021/05/27/tara-robertson/). We are learning valuable coaching skills - how to ask open-ended questions, how to listen - that make us better equipped as mentors, teachers, and leaders. When listening as a coach, we're trying to help the other person define their problem and find their solution, outside of our expertise. This is different from mentoring, when we do have an answer within our expertise. Developing these coach listening skills, what questions to ask, and when to use mentoring vs coaching skills, is the focus of our sessions; we are practicing coaching skills together to tackle common challenges and skill-build together. Read more in our blog post: [How coaching skills have made us better open data science mentors](https://openscapes.org/blog/2023-05-17-mentor-coach/).
@@ -79,17 +56,16 @@ Our mentor-coach sessions are cross-government, and include Openscapes mentors w
 - Fred Hutchinson Cancer Center mentors
 
 
-## 2022
-
-### July-August
+### 2022 July-August
 
 The NMFS Openscapes mentor group is meeting bi-weekly. Current focus is on activities surrounding the summer cohorts at SEFSC and Cal EPA.
 
-### Spring 
+### 2022 Spring 
 
 Mentors and other interested folks across science centers and regional offices met several times to plan and give presentations about NMFS Openscapes efforts to individual science centers and the NMFS Science Board.
 
-### January-March
+### 2022 January-March
 
 The AFSC Mentors met bi-weekly during the 2021-2022 AFSC cohort. 
+
 
