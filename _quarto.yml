@@ -40,8 +40,13 @@ website:
         text: About Openscapes
       - href: about-nmfs-openscapes.qmd
         text: About NMFS Openscapes
-      - href: mentors.qmd
+      - section: mentors/index.qmd
         text: Mentors Community
+        contents: 
+          - href: mentors/activities.qmd
+            text: Activities
+          - href: mentors/mentor-calls.qmd
+            text: Mentor Calls Skills            
       - section: cohorts/index.qmd
         text: Champions Cohorts
         contents: 

@@ -1,0 +1,36 @@
+---
+title: "Mentor Call Skills"
+editor: 
+  markdown: 
+    wrap: 72
+---
+
+We have five Mentor Calls as a full community. Here we detail the skills
+and practices Mentors experienced and experimented with in each Call.
+
+How might you reuse these? Moving from "open science from something I do
+alone" to "open science is something I support in others".
+
+## Call 1 Openscapes mindset for mentors
+
+**What does it mean to be a mentor? What does Open Science at NMFS
+mean?**
+
+-   **Speaking up/sharing about yourself for 4 minutes** - a challenge
+    for some to take up that space, a challenge for others to limit to
+    that space.
+
+-   **Keeping on time** - as a speaker and as a timekeeper
+
+-   **Listening: giving space/silence. Not jumping in** - get
+    comfortable with discomfort
+
+-   **Live contributing to collaborative google doc** - hear from more
+    voices than we could only out loud, both time-wise and due to power
+    structures
+
+-   **Learned emoji shortcut** - not frivolous; a way to connect, side
+    conversations and encouragement to build relationships
+
+-   **Saw us adjusting time on the fly in the doc and verbally** - open
+    facilitation
