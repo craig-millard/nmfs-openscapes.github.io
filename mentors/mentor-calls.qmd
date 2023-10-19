@@ -13,24 +13,41 @@ alone" to "open science is something I support in others".
 
 ## Call 1 Openscapes mindset for mentors
 
-**What does it mean to be a mentor? What does Open Science at NMFS
-mean?**
+### What does it mean to be a mentor? What does Open Science at NMFS mean?
 
 -   **Speaking up/sharing about yourself for 4 minutes** - a challenge
     for some to take up that space, a challenge for others to limit to
     that space.
-
 -   **Keeping on time** - as a speaker and as a timekeeper
-
 -   **Listening: giving space/silence. Not jumping in** - get
     comfortable with discomfort
-
 -   **Live contributing to collaborative google doc** - hear from more
     voices than we could only out loud, both time-wise and due to power
     structures
-
 -   **Learned emoji shortcut** - not frivolous; a way to connect, side
     conversations and encouragement to build relationships
-
 -   **Saw us adjusting time on the fly in the doc and verbally** - open
     facilitation
+
+### Your tasks before next Call
+
+1.  **Seaside Chat:** Organize 1 hour with mentors at your center/office
+    (or other people from other centers/offices), to discuss how you
+    could improve workflows with open science in your own work, your own
+    center, or more broadly. You could also discuss these readings 
+2.  **Readings**: Read [Shifting institutional culture to develop
+    climate solutions with Open
+    Science](https://eartharxiv.org/repository/view/5948/) (2023
+    preprint) and [How coaching skills have made us better open data
+    science
+    mentors](https://openscapes.org/blog/2023-05-17-mentor-coach/) (May
+    2023), both coauthored by NMFS Mentors, (and \<20 mins combined). 
+3.  **(optional) Attend** **Coworking**. We'll send a recurring calendar
+    invite for the weeks between Mentors Calls, Tuesdays, 12:30 - 1:30
+    pm PT. ([find your local
+    time](https://www.timeanddate.com/worldclock/fixedtime.html?msg=NMFS+Openscapes+Mentors+Coworking&iso=20231024T1230&p1=1050&ah=1)).
+    On Oct 24, Eli Holmes will report on PARR and the new 2022 memo and
+    changes to our data workflows that are being proposed, and discuss
+    how these changes will impact staff. (Eli is the NMFS Public Access
+    of Research Results (PARR) representative on the NOAA PARR working
+    group.)
