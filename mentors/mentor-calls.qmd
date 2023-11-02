@@ -51,3 +51,44 @@ alone" to "open science is something I support in others".
     how these changes will impact staff. (Eli is the NMFS Public Access
     of Research Results (PARR) representative on the NOAA PARR working
     group.)
+
+## Call 2 Developing strong open and collaborative Communities
+
+### What skills can we develop to support each other? What are the elements of successful open communities? What NOAA & NMFS open science communities do we like to participate in?
+
+-   **Active listening and asking powerful questions** - coaching to
+    empower people to find their own solutions rather than suggesting
+    our ideas of what they should do
+-   **Vulnerability, yes! Shame, no** - learning and building trust by
+    getting curious with each other
+-   **Leveraging the experiences of a community** - Kathryn, Ady &
+    Christine presenting
+-   **You don't have to be an expert to teach** - Christine
+    screensharing an efficiency tip she just learned
+-   **Sharing open resources for reuse** - slides for 12-minute,
+    5-minute, or 1-slide only presentations
+-   **Crowdsourcing resources** - a list of NOAA & NMFS communities we
+    recommend
+-   **Making time for live clarification** - open facilitation 'til we
+    all know the plan
+-   **Bringing attention to or sharing gratitude for a colleague** -
+    coaching kudos and examples of raising people up
+
+### Your tasks before next Call
+
+1.  **Seaside Chat:** Organize 1 hour with mentors at your center/office
+    (or other people from other centers/offices), to discuss how you
+    could improve workflows with open science in your own work, your own
+    center, or more broadly. You could also discuss these readings
+    a.  Continue to add to 'seeking mentors for Seaside Chat' in the
+        'Fall 2023 Openscapes mentors cohort' sheet
+    b.  Share your Seaside Chat report outs in our doc
+2.  **Readings**: Read [19 reasons why technologists don\'t want to work
+    at your government
+    agency](https://ben.balter.com/2015/04/21/why-technologists-dont-want-to-work-at-your-agency/),
+    Ben Balter
+3.  **Optional themed seaside chat.** In between the full cohort calls,
+    Eli will hold optional Seaside Chats open to any mentors. We\'ll
+    discuss Open Data and Open Science issues affecting NOAA Fisheries.
+    Wed, Nov 8, Eli will give a brief update on what is happening at the
+    NOAA level re Open Science. We\'ve sent calendar invites.
