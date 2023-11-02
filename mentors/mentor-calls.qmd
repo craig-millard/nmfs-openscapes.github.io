@@ -56,7 +56,7 @@ alone" to "open science is something I support in others".
 
 -   **Active listening and asking powerful questions** - coaching to
     empower people to find their own solutions rather than suggesting
-    our ideas of what would help
+    our ideas of what they should do
 -   **Vulnerability, yes! Shame, no** - learning and building trust by
     getting curious with each other
 -   **Leveraging the experiences of a community** - Kathryn, Ady &
@@ -67,7 +67,8 @@ alone" to "open science is something I support in others".
     5-minute, or 1-slide only presentations
 -   **Crowdsourcing resources** - a list of NOAA & NMFS communities we
     recommend
--   **Making time for live clarification** -
+-   **Making time for live clarification** - open facilitation 'til we
+    all know the plan
 -   **Bringing attention to or sharing gratitude for a colleague** -
     coaching kudos and examples of raising people up
 
@@ -77,7 +78,7 @@ alone" to "open science is something I support in others".
     (or other people from other centers/offices), to discuss how you
     could improve workflows with open science in your own work, your own
     center, or more broadly. You could also discuss these readings
-    a.  Continue to add to \"seeking mentors for Seaside Chat\" in the
+    a.  Continue to add to 'seeking mentors for Seaside Chat' in the
         'Fall 2023 Openscapes mentors cohort' sheet
     b.  Share your Seaside Chat report outs in our doc
 2.  **Readings**: Read [19 reasons why technologists don\'t want to work
