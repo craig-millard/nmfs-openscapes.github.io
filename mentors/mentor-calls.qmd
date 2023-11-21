@@ -83,12 +83,60 @@ alone" to "open science is something I support in others".
     a.  Continue to add to 'seeking mentors for Seaside Chat' in the
         'Fall 2023 Openscapes mentors cohort' sheet
     b.  Share your Seaside Chat report outs in our doc
-2.  **Readings**: Read [19 reasons why technologists don\'t want to work
+2.  **Readings**: Read [19 reasons why technologists don't want to work
     at your government
     agency](https://ben.balter.com/2015/04/21/why-technologists-dont-want-to-work-at-your-agency/),
     Ben Balter
 3.  **Optional themed seaside chat.** In between the full cohort calls,
-    Eli will hold optional Seaside Chats open to any mentors. We\'ll
+    Eli will hold optional Seaside Chats open to any mentors. We'll
     discuss Open Data and Open Science issues affecting NOAA Fisheries.
     Wed, Nov 8, Eli will give a brief update on what is happening at the
-    NOAA level re Open Science. We\'ve sent calendar invites.
+    NOAA level re Open Science. We've sent calendar invites.
+
+## Call 3 Experiential learning
+
+### **We converged on open science challenges topics and people who want to work together** and we **learned about and practiced experiential learning.**
+
+-   **Pitching ideas** - to connect with colleagues
+
+-   **Listening** - listening to understand, avoiding solutioneering
+
+-   **Asking powerful questions** - often begin with \"what\", \"what
+    else?\", never yes/no
+
+-   **Breaking down activities into teaching concepts** - identifying
+    and letting go of extra topics
+
+-   **Do - Reflect - Apply** approach to teaching
+
+-   **Time constraints** - how constraints both for planning time and
+    teaching time can help determine scope of an activity
+
+### Your tasks before next Call
+
+1.  **Seaside Chat:** Have and report-out from your small-group Seaside
+    Chats, building from topics in the Fall 2023 Openscapes mentors
+    sheet
+
+    a.  What help do you need to arrange these?
+    b.  Share your meeting time so others can join. Options: post to our
+        Google Space, Mentors Calendar, or add to column H in the Fall
+        2023 Openscapes mentors sheet.
+    c.  Share your Seaside Chat report outs in the
+        SeasideChats_ReportOuts \[ nmfs-openscapes-mentors \] doc.
+
+2.  **Open Science News**: Share your Open Science news in the [Open
+    Science/Open Data Weekly
+    Updates](https://docs.google.com/document/d/1FPei7lBc54VwzZK2qCT9cnrU8-ISZbtQuP2rkg3y3Nc/edit#heading=h.2uk93pxi4pkb)
+    doc
+
+3.  **Readings**: [Tips and Tools for Gentle R
+    Introductions](https://allisonhorst.github.io/qmss-r-teaching-tools/)
+    (slides, by Allison Horst)
+
+4.  **Optional themed seaside chat - Nov 20, 1-2pm PT.** In between the
+    full cohort calls, we will hold optional themed Seaside Chats open
+    to any mentors. Mon, Nov 20 1-2pm PT, Julie and Eli will give an
+    overview of the Openscapes Champions Program, our goals for the
+    Feb-Mar 2024 NMFS Champions Cohorts and how this fits into the
+    broader plan for NMFS Open Science.
