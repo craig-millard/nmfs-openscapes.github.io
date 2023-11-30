@@ -13,19 +13,24 @@ alone" to "open science is something I support in others".
 
 ## Call 1 Openscapes mindset for mentors
 
-### What does it mean to be a mentor? What does Open Science at NMFS mean?
+What does it mean to be a mentor? What does Open Science at NMFS mean?
 
 -   **Speaking up/sharing about yourself for 4 minutes** - a challenge
     for some to take up that space, a challenge for others to limit to
     that space.
+
 -   **Keeping on time** - as a speaker and as a timekeeper
+
 -   **Listening: giving space/silence. Not jumping in** - get
     comfortable with discomfort
+
 -   **Live contributing to collaborative google doc** - hear from more
     voices than we could only out loud, both time-wise and due to power
     structures
+
 -   **Learned emoji shortcut** - not frivolous; a way to connect, side
     conversations and encouragement to build relationships
+
 -   **Saw us adjusting time on the fly in the doc and verbally** - open
     facilitation
 
@@ -54,23 +59,32 @@ alone" to "open science is something I support in others".
 
 ## Call 2 Developing strong open and collaborative Communities
 
-### What skills can we develop to support each other? What are the elements of successful open communities? What NOAA & NMFS open science communities do we like to participate in?
+What skills can we develop to support each other? What are the elements
+of successful open communities? What NOAA & NMFS open science
+communities do we like to participate in?
 
 -   **Active listening and asking powerful questions** - coaching to
     empower people to find their own solutions rather than suggesting
     our ideas of what they should do
+
 -   **Vulnerability, yes! Shame, no** - learning and building trust by
     getting curious with each other
+
 -   **Leveraging the experiences of a community** - Kathryn, Ady &
     Christine presenting
+
 -   **You don't have to be an expert to teach** - Christine
     screensharing an efficiency tip she just learned
+
 -   **Sharing open resources for reuse** - slides for 12-minute,
     5-minute, or 1-slide only presentations
+
 -   **Crowdsourcing resources** - a list of NOAA & NMFS communities we
     recommend
+
 -   **Making time for live clarification** - open facilitation 'til we
     all know the plan
+
 -   **Bringing attention to or sharing gratitude for a colleague** -
     coaching kudos and examples of raising people up
 
@@ -95,14 +109,15 @@ alone" to "open science is something I support in others".
 
 ## Call 3 Experiential learning
 
-### **We converged on open science challenges topics and people who want to work together** and we **learned about and practiced experiential learning.**
+We converged on open science challenges topics and people who want to
+work together and we learned about and practiced experiential learning.
 
 -   **Pitching ideas** - to connect with colleagues
 
 -   **Listening** - listening to understand, avoiding solutioneering
 
--   **Asking powerful questions** - often begin with \"what\", \"what
-    else?\", never yes/no
+-   **Asking powerful questions** - often begin with "what", "what
+    else?", never yes/no
 
 -   **Breaking down activities into teaching concepts** - identifying
     and letting go of extra topics
@@ -140,3 +155,82 @@ alone" to "open science is something I support in others".
     overview of the Openscapes Champions Program, our goals for the
     Feb-Mar 2024 NMFS Champions Cohorts and how this fits into the
     broader plan for NMFS Open Science.
+
+## Call 4 Supporting teams to tackle workflow change through the Champions Program
+
+We followed up on making connections through topic-based Seaside Chats,
+practiced skills for presenting and iterating new-to-us material to
+different audiences.
+
+-   **Calendaring** - adding a shared group to a Google Calendar invite
+
+-   **Pitching to different audiences** - how to reframe messaging and
+    reuse slides to communicate
+
+-   **Sharing imperfect work** - share early to co-design with feedback
+
+-   **Rapid prototyping** - incorporating feedback live from 1st time,
+    to present minutes later for 2nd time
+
+-   **Presenting someone else's slides** - how to let go of how you
+    might have made the slides -- and iterate them to make them work
+    more for you
+
+-   **Presenting with little prep time** - saying things out loud as a
+    way to test and iterate
+
+-   **Asking questions and giving feedback** - shaping Champions program
+    comms/engagement together. Balancing keeping what works,
+    improvement, and time.
+
+-   **Feedback framework** - elicit more helpful feedback using explicit
+    guides, from [The Carpentries Instructor
+    Training](https://carpentries.github.io/instructor-training/index.html):
+
+    -   Content
+        -   Positive
+        -   Constructive
+    -   Delivery
+        -   Positive
+        -   Constructive
+
+### Your tasks before next Call
+
+1.  **Seaside Chat:** join or host a [topic-based Seaside
+    Chat](https://docs.google.com/spreadsheets/d/1hbjcOaMPirCJrh4Hr8fEtJsLr4WbbSKBmo-9yQgRJr4/edit#gid=0) 
+
+    a.  You can find and add Seaside Chats on the [NMFS Openscapes
+        Mentors
+        Calendar](https://calendar.google.com/calendar/u/0?cid=Y181OGVjNjkzOGQzYjJjZTNhMzk2YzhlNGNhMGMzNzUzODUyOWVjZjRiMmQxODM5MDA0ZmMwMjU5YWQxYjc5YzY2QGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20)
+        and post to our Google Space
+    b.  Report out in [SeasideChats_ReportOuts \[
+        nmfs-openscapes-mentors
+        \]](https://docs.google.com/document/d/1yqqPZbZRHgD1qjoiu67r9LqB9LK7QZuEaidVjRTNxzc/edit#heading=h.vsvqf3xcxomp)
+    c.  Continue to add to \"seeking mentors for Seaside Chat\" ([Fall
+        2023 Openscapes mentors
+        cohort](https://docs.google.com/spreadsheets/u/1/d/1hbjcOaMPirCJrh4Hr8fEtJsLr4WbbSKBmo-9yQgRJr4/edit)
+        sheet)
+
+2.  **Open Science / Open Data News**: Share yours in[DRAFT of OS/OD
+    Weekly
+    Updates](https://docs.google.com/document/d/1FPei7lBc54VwzZK2qCT9cnrU8-ISZbtQuP2rkg3y3Nc/edit?usp=sharing)
+    and reuse/remix from each other to share back out in your
+    newsletters
+
+3.  **Readings**: 
+
+    1.  [Agile teams don\'t work without psychological safety
+        skills](https://hbr.org/2022/02/agile-doesnt-work-without-psychological-safety)
+
+    2.  [The changing skill-set needed for project
+        leaders](https://hbr.org/2022/03/managers-cant-do-it-all)
+
+4.  **Optional themed seaside chat.** Wednesday, December 6, 3:30 - 4:30
+    ET / 12:30 - 1:30 PT (30 mins earlier than last time). This session
+    will be on Cloud Computing. You will get a brief introduction to
+    JupyterHubs, which is a popular platform for cloud computing. You'll
+    get to play around on a JupyterHub set up on NOAA's Azure account.
+    The hub has both RStudio and Jupyter Notebooks loaded. We will
+    discuss how cloud computing platforms streamline and accelerate open
+    science by increasing reproducibility and removing the "set-up"
+    phase of a computing environment. 
