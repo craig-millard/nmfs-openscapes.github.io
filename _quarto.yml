@@ -43,8 +43,10 @@ website:
       - section: mentors/index.qmd
         text: Mentors Community
         contents: 
-          - href: mentors/activities.qmd
-            text: Activities
+          - href: mentors/activities.html#october-december-2023-nmfs-mentors-cohort
+            text: Fall 2023 cohort         
+          - href: mentors/activities.html#previous-activities
+            text: Previous activities
           - href: mentors/mentor-calls.qmd
             text: Mentor Calls Skills            
       - section: cohorts/index.qmd
