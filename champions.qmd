@@ -1,0 +1,48 @@
+---
+title: "Champions"
+---
+
+## "Not your traditional training/workshop"
+
+Together with the NMFS Mentor Community, Openscapes will be leading 3 Champions Cohorts in Fall 2024. Work-in-progress [draft slides](https://docs.google.com/presentation/d/1rfIGbpctNdW2WNUz1vy5-U2JFh4F_0Z-B_wgjwvXTYY/edit#slide=id.g29ec5741130_0_210) for engaging potential participants.
+
+**What is the Champions Program?** The Openscapes curriculum teaches psychological safety skills, team bonding and empathy skills, framed in the context of data-intensive science. It teaches practical ways to do this in one's day to day interactions with the team and with others. **Why**? The goal is to help teams improve their workflows or tackle another big hard task. This requires that people be able to talk openly about issues and be vulnerable by discussing things that they or the team struggles with. Also the whole team needs to be able to do this. Psychological safety is needed for less ‘powerful’ or privileged members to feel empowered and safe. It is also needed for team leaders to be able to discuss their own limitations and lack of knowledge. **How**? In addition to the curriculum, teams tackle a specific project that they decide is important for their work, and have opportunities to cowork with others around particular data science themes.
+
+
+<!--- TODO UPDATE THIS FOR 3 Cohorts 
+## Champions Program Details
+
+
+
+**This NASA Openscapes Champions Cohort will run from April-May 2024!** We will meet as a cohort five times over two months, on alternating Wednesdays, with additional optional coworking times. 
+
+-   **Dates:** April 3, 17, May 1, 15, 29.
+-   **Times:** 10:00-11:30 am Pacific Time
+-   **Where:** remotely, via Zoom
+-   **What we learn:** details coming soon, see the [2023 cohort webpage](https://nasa-openscapes.github.io/2023-nasa-champions/)
+-   **Who:** Cohort of 7 research groups that work with NASA Earthdata and interested in workflows in the Cloud. Each team consists of a team lead (faculty, principal investigator, etc) and up to 4 team members of your choice (graduate students, post docs, research techs, etc). Teams can also be collaborating in other ways and do not need to be a formal research group.
+-   **Cost:** Free; this opportunity is supported by NASA funding to Openscapes
+-   **Expected time commitment:** 8hrs/month for 2 months is a minimum expected time commitment. This accounts for 3 hours/month of synchronous Cohort Calls, optional Coworking hours, and team Seaside Chats where you plan with your research group to strengthen shared workflows.
+
+--->
+
+## Sign up with a colleague or team for Fall 2024
+
+*Details coming soon!*
+
+<!---
+**Nominate your team by adding to [this Google Spreadsheet] (TODO) by March 19, 2024** - date extended. This opportunity is open only to research groups that work with data from [NASA Data Centers [DAACs]](https://www.earthdata.nasa.gov/eosdis/daacs). Priority will be given to researchers using data from DAACs participating in Openscapes this year: LP DAAC, NSIDC, PO.DAAC, GES DISC, ASDC, ORNL DAAC, ASDC, OBDAAC, LAADS, GHRC, SEDAC, and ASF.
+
+Please submit one nomination per team, preferably by the team lead (faculty, principal investigator, etc). Participants from previous cohorts are welcome. We will confirm participation on a rolling basis.
+
+--->
+
+## Mentor roles
+
+Mentors participate in the Champions Program (in fact, Champions cohorts are scheduled as "takeovers" of regular Mentors calls to be mindful of Mentors' time commitments). Here are several roles where Mentors can contribute: 
+
+- Participant (bring your team as Champions)
+- Mentor (Content expert, model live notetaking, contribute to debriefing)
+- Guest teacher - running a themed Seaside Chat, or (learn to) lead GitHub clinics
+- Helpers - Coworking / Seaside Chat (fix merge conflict, add documentation)
+
