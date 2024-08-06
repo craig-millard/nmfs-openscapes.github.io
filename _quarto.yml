@@ -49,6 +49,8 @@ website:
             text: Previous activities
           - href: mentors/mentor-calls.qmd
             text: Mentor Calls Skills            
+      - href: champions.qmd
+        text: Champions Program      
       - section: cohorts/index.qmd
         text: Champions Cohorts
         contents: 
