@@ -29,9 +29,10 @@ website:
       - icon: mastodon
         href: https://fosstodon.org/@openscapes
         text: "Openscapes Mastodon"
-      - icon: bluesky
-        href: https://bsky.app/profile/openscapes.bsky.social
-        text: "Openscapes Bluesky"            
+      # bluesky icon not yet available (in my installation)
+      # - icon: bluesky
+      #   href: https://bsky.app/profile/openscapes.bsky.social
+      #   text: "Openscapes Bluesky"            
 
     style: "docked"
     search: true
