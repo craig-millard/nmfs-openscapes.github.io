@@ -11,7 +11,7 @@ website:
   
   page-footer:
     right: "This page is built with ❤️ and [Quarto](https://quarto.org/)."
-    left: "&copy; CC-By Openscapes, 2022"
+    left: "&copy; CC-By Openscapes, 2024"
   
   sidebar:
     background: "#D9E3E4"
@@ -28,7 +28,10 @@ website:
         text: "NMFS Openscapes"
       - icon: mastodon
         href: https://fosstodon.org/@openscapes
-        text: "Openscapes Mastodon"         
+        text: "Openscapes Mastodon"
+      - icon: bluesky
+        href: https://bsky.app/profile/openscapes.bsky.social
+        text: "Openscapes Bluesky"            
 
     style: "docked"
     search: true
@@ -60,6 +63,8 @@ website:
           - cohorts/NMFS-fall2021.md 
           - cohorts/FDD-fall2021.md
           - cohorts/NEFSC-spr2020.md
+      - href: blog.qmd
+        text: Blog
       - href: media.qmd
         text: Presentations and Media
       - contact.qmd
