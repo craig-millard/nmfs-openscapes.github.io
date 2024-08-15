@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://nmfs-openscapes.github.io/mentors/activities.html</loc>
-    <lastmod>2024-08-15T22:51:24.107Z</lastmod>
+    <lastmod>2023-12-20T15:43:34.970Z</lastmod>
   </url>
   <url>
     <loc>https://nmfs-openscapes.github.io/mentors/index.html</loc>
@@ -22,11 +22,11 @@
   </url>
   <url>
     <loc>https://nmfs-openscapes.github.io/cohorts/index.html</loc>
-    <lastmod>2024-08-15T22:52:10.706Z</lastmod>
+    <lastmod>2024-08-07T21:07:27.753Z</lastmod>
   </url>
   <url>
     <loc>https://nmfs-openscapes.github.io/index.html</loc>
-    <lastmod>2024-08-15T22:51:18.570Z</lastmod>
+    <lastmod>2023-11-01T22:54:09.944Z</lastmod>
   </url>
   <url>
     <loc>https://nmfs-openscapes.github.io/about-openscapes.html</loc>
@@ -34,7 +34,7 @@
   </url>
   <url>
     <loc>https://nmfs-openscapes.github.io/champions.html</loc>
-    <lastmod>2024-08-15T23:39:04.892Z</lastmod>
+    <lastmod>2024-08-07T21:07:27.753Z</lastmod>
   </url>
   <url>
     <loc>https://nmfs-openscapes.github.io/CODE_OF_CONDUCT.html</loc>
@@ -70,6 +70,94 @@
   </url>
   <url>
     <loc>https://nmfs-openscapes.github.io/mentors/mentor-calls.html</loc>
-    <lastmod>2024-08-15T22:51:23.620Z</lastmod>
+    <lastmod>2024-08-07T21:07:27.753Z</lastmod>
+  </url>
+  <url>
+    <loc>https://nmfs-openscapes.github.io/blog.html</loc>
+    <lastmod>2024-08-09T23:02:53.762Z</lastmod>
+  </url>
+  <url>
+    <loc>https://nmfs-openscapes.github.io/blog/2024-01-24-nmfs-mentors/index.html</loc>
+    <lastmod>2024-08-09T23:02:53.882Z</lastmod>
+  </url>
+  <url>
+    <loc>https://nmfs-openscapes.github.io/blog/2024-06-06-editorial-published/index.html</loc>
+    <lastmod>2024-08-09T23:02:53.895Z</lastmod>
+  </url>
+  <url>
+    <loc>https://nmfs-openscapes.github.io/blog/2022-09-30-sefsc-summer/index.html</loc>
+    <lastmod>2024-08-09T23:02:53.846Z</lastmod>
+  </url>
+  <url>
+    <loc>https://nmfs-openscapes.github.io/blog/2023-05-31-zenodo-community/index.html</loc>
+    <lastmod>2024-08-09T23:26:41.345Z</lastmod>
+  </url>
+  <url>
+    <loc>https://nmfs-openscapes.github.io/blog/2022-04-07-afsc-supportive-forum/index.html</loc>
+    <lastmod>2024-08-09T23:02:53.845Z</lastmod>
+  </url>
+  <url>
+    <loc>https://nmfs-openscapes.github.io/blog/2023-02-21-news-february-2023/index.html</loc>
+    <lastmod>2024-08-09T23:02:53.868Z</lastmod>
+  </url>
+  <url>
+    <loc>https://nmfs-openscapes.github.io/blog/2023-05-17-mentor-coach/index.html</loc>
+    <lastmod>2024-08-09T23:05:51.442Z</lastmod>
+  </url>
+  <url>
+    <loc>https://nmfs-openscapes.github.io/blog/2024-02-09-white-house-factsheet-openscapes/index.html</loc>
+    <lastmod>2024-08-09T23:02:53.891Z</lastmod>
+  </url>
+  <url>
+    <loc>https://nmfs-openscapes.github.io/blog/2023-03-16-esip-winter-2023/index.html</loc>
+    <lastmod>2024-08-09T23:02:53.871Z</lastmod>
+  </url>
+  <url>
+    <loc>https://nmfs-openscapes.github.io/blog/2023-02-16-noaa-afsc-fall/index.html</loc>
+    <lastmod>2024-08-09T23:02:53.868Z</lastmod>
+  </url>
+  <url>
+    <loc>https://nmfs-openscapes.github.io/blog/2023-01-24-noaa-nmfs-fall/index.html</loc>
+    <lastmod>2024-08-09T23:02:53.866Z</lastmod>
+  </url>
+  <url>
+    <loc>https://nmfs-openscapes.github.io/blog/2021-05-03-noaa-nwfsc-champions/index.html</loc>
+    <lastmod>2024-08-09T23:02:53.784Z</lastmod>
+  </url>
+  <url>
+    <loc>https://nmfs-openscapes.github.io/blog/2021-11-12-noaa-nmfs-champions/index.html</loc>
+    <lastmod>2024-08-09T23:02:53.817Z</lastmod>
+  </url>
+  <url>
+    <loc>https://nmfs-openscapes.github.io/blog/2021-11-12-fdd-champions/index.html</loc>
+    <lastmod>2024-08-09T23:02:53.816Z</lastmod>
+  </url>
+  <url>
+    <loc>https://nmfs-openscapes.github.io/blog/2021-11-03-champions-fall-cohorts-2021/index.html</loc>
+    <lastmod>2024-08-09T23:02:53.802Z</lastmod>
+  </url>
+  <url>
+    <loc>https://nmfs-openscapes.github.io/blog/2022-12-09-case-study-swfsc-sael/index.html</loc>
+    <lastmod>2024-08-09T23:02:53.862Z</lastmod>
+  </url>
+  <url>
+    <loc>https://nmfs-openscapes.github.io/blog/2022-02-17-esip-winter-2022/index.html</loc>
+    <lastmod>2024-08-09T23:02:53.831Z</lastmod>
+  </url>
+  <url>
+    <loc>https://nmfs-openscapes.github.io/blog/2021-05-07-may-updates/index.html</loc>
+    <lastmod>2024-08-09T23:02:53.792Z</lastmod>
+  </url>
+  <url>
+    <loc>https://nmfs-openscapes.github.io/blog/2020-03-06-workshop-noaa-nefsc/index.html</loc>
+    <lastmod>2024-08-09T23:02:53.763Z</lastmod>
+  </url>
+  <url>
+    <loc>https://nmfs-openscapes.github.io/blog/2021-11-29-events-december-2021/index.html</loc>
+    <lastmod>2024-08-09T23:02:53.822Z</lastmod>
+  </url>
+  <url>
+    <loc>https://nmfs-openscapes.github.io/blog/2022-03-21-news-march-2022/index.html</loc>
+    <lastmod>2024-08-09T23:02:53.831Z</lastmod>
   </url>
 </urlset>
