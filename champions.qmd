@@ -1,43 +1,47 @@
 ---
-title: "Champions"
+title: "Openscapes Champions Cohorts"
 ---
 
-## "Not your traditional training/workshop"
+The NMFS Openscapes Mentor Community will be leading 3 Champions Cohorts in Fall 2024! Read on to learn what this is and how to sign up. 
 
-Together with the NMFS Mentor Community, Openscapes will be leading 3 Champions Cohorts in Fall 2024. Work-in-progress [draft slides](https://docs.google.com/presentation/d/1rfIGbpctNdW2WNUz1vy5-U2JFh4F_0Z-B_wgjwvXTYY/edit#slide=id.g29ec5741130_0_210) for engaging potential participants.
+## What is the Champions Program?
 
-**What is the Champions Program?** The Openscapes curriculum teaches psychological safety skills, team bonding and empathy skills, framed in the context of data-intensive science. It teaches practical ways to do this in one's day to day interactions with the team and with others. **Why**? The goal is to help teams improve their workflows or tackle another big hard task. This requires that people be able to talk openly about issues and be vulnerable by discussing things that they or the team struggles with. Also the whole team needs to be able to do this. Psychological safety is needed for less ‘powerful’ or privileged members to feel empowered and safe. It is also needed for team leaders to be able to discuss their own limitations and lack of knowledge. **How**? In addition to the curriculum, teams tackle a specific project that they decide is important for their work, and have opportunities to cowork with others around particular data science themes.
+Openscapes Champions is a remote-by-design, cohort-based mentorship program that helps teams reimagine workflows, develop modern skills that are of immediate value to them, and cultivate inclusive collaborations with their colleagues. It is focused on open science and data modernization via biweekly curriculum that Openscapes has improved over 24 Cohorts 2019-2024 (including 10 with NMFS!) The goal is strengthening a teaching and learning culture within teams and organizations. This program is not only for scientists: admin, IT staff, and beyond are welcomed.
 
+Through Openscapes cohorts, you focus on your own work with your team. As the program introduces modern concepts, tooling, and examples from your peers for collaborative open data science, your team focuses on where you are and where you want to go together. **Openscapes Champions is "not your traditional training/workshop" because teams:**
 
-<!--- TODO UPDATE THIS FOR 3 Cohorts 
+- Have real-world experiential learning: developing psychological safety and habits for implementing change
+- Learn together and get unstuck: Teams identify and make progress on barriers as Openscapes introduces modern concepts, tooling, and examples from peers
+- Work on what is important to them, often something hard to do. Something they want to change. 
+
 ## Champions Program Details
 
+**Fall NMFS Openscapes Champions Cohorts will run from October-December 2024!** We will meet as a cohort five times over two months, on alternating weeks, with additional optional coworking times. 
 
+- **Date-Times**: 
+  - **Cohort-A: Oct 8, 22, Nov 5, 19, Dec 3**. Alternating Tuesdays from 11:00am - 12:30pm PT. 
+  - **Cohort-B: Oct 9, 23, Nov 6, 20, Dec 4**. Alternating Wednesdays from 10:00 - 11:30am PT. 
+  - **Cohort-C: Oct 9, 23, Nov 6, 20, Dec 4**. Alternating Wednesdays from 1:00 - 2:30pm PT.   
 
-**This NASA Openscapes Champions Cohort will run from April-May 2024!** We will meet as a cohort five times over two months, on alternating Wednesdays, with additional optional coworking times. 
-
--   **Dates:** April 3, 17, May 1, 15, 29.
--   **Times:** 10:00-11:30 am Pacific Time
--   **Where:** remotely, via Zoom
--   **What we learn:** details coming soon, see the [2023 cohort webpage](https://nasa-openscapes.github.io/2023-nasa-champions/)
--   **Who:** Cohort of 7 research groups that work with NASA Earthdata and interested in workflows in the Cloud. Each team consists of a team lead (faculty, principal investigator, etc) and up to 4 team members of your choice (graduate students, post docs, research techs, etc). Teams can also be collaborating in other ways and do not need to be a formal research group.
--   **Cost:** Free; this opportunity is supported by NASA funding to Openscapes
+-   **Where:** remotely, via Google Meet
+-   **What we learn:** [Champions program core lessons](https://openscapes.github.io/series), with NOAA Fisheries examples 
+-   **Cost:** Free; this opportunity is supported by NOAA funding to Openscapes
 -   **Expected time commitment:** 8hrs/month for 2 months is a minimum expected time commitment. This accounts for 3 hours/month of synchronous Cohort Calls, optional Coworking hours, and team Seaside Chats where you plan with your research group to strengthen shared workflows.
+-   **Who:** Teams of NMFS staff interested in improving their workflows and/or open science — goals do not need to be well-defined (we'll develop goals throughout the 10 weeks). Team members do not all need to have technical or data interests, but share a curiosity and interest in improving something about how they work. It is not necessary for the whole team to participate in the Cohort; often a subset of a team will participate and then they will bring the information and energy back to the full team during in-between weeks. It is important that those who participate can do so in all or most sessions, and are energized to be interacting with like-minded individuals across NOAA Fisheries. Teams can also be collaborating in other ways and do not need to be a formal research group. If you are interested but think "I don't have a team" - you are welcome to sign up as an individual, or invite someone you know to sign up with you, even if you do not work on a shared deliverable! Your team can include feds, contractors, and others, so long as they can commit to the time.
 
---->
 
-## Sign up with a colleague or team for Fall 2024
+## Sign up for Fall 2024
 
-*Details coming soon!*
-
-<!---
-**Nominate your team by adding to [this Google Spreadsheet] (TODO) by March 19, 2024** - date extended. This opportunity is open only to research groups that work with data from [NASA Data Centers [DAACs]](https://www.earthdata.nasa.gov/eosdis/daacs). Priority will be given to researchers using data from DAACs participating in Openscapes this year: LP DAAC, NSIDC, PO.DAAC, GES DISC, ASDC, ORNL DAAC, ASDC, OBDAAC, LAADS, GHRC, SEDAC, and ASF.
-
-Please submit one nomination per team, preferably by the team lead (faculty, principal investigator, etc). Participants from previous cohorts are welcome. We will confirm participation on a rolling basis.
-
---->
+**Sign up with a colleague or team by Sept 23, 2024** by adding to [this Google Spreadsheet](https://docs.google.com/spreadsheets/d/10zTz6i-ZuwnQhCTG63jRku0BtVwgc9e1tqnfGuiyM2c/edit?gid=1241468325#gid=1241468325). Please indicate the Cohort date-times you are available; we will confirm participation via email by Sept 25. 
 
 ## Mentor roles
+
+The growing NMFS Openscapes Mentor community — staff from across NOAA Fisheries interested in supporting others with teamwork and open science — will be increasingly involved with Champions Cohorts, and point-people for questions about what is involved and how to sign up.
+
+### Pre-cohort engagement
+To share about the opportunity, our goal in September is to give a talk at each Center/Regional Office. Here are work-in-progress [slides introducing the Fall 2024 Champions Program ](https://docs.google.com/presentation/d/1a_nDKAxpvaWURITBm_HiDvzCd7GLDmb8ooi-d0dRI5I/edit?usp=sharing) with background information we can all use to present.
+
+### During cohort
 
 Mentors participate in the Champions Program (in fact, Champions cohorts are scheduled as "takeovers" of regular Mentors calls to be mindful of Mentors' time commitments). Here are several roles where Mentors can contribute: 
 
