@@ -18,6 +18,10 @@ A few recent talks highlighting NOAA Fisheries with these other collaborators, s
 
 ## Learn more
 
+Lowndes et al 2024. [Shifting institutional culture to develop climate solutions with Open Science](https://onlinelibrary.wiley.com/doi/10.1002/ece3.11341). Ecology & Evolution
+
+Fredston & Lowndes 2024. [Welcoming More Participation in Open Data Science for the Oceans](https://www.annualreviews.org/doi/full/10.1146/annurev-marine-041723-094741), Annual Review of Marine Science.
+
 Robinson & Lowndes 2022. [The Openscapes Flywheel: A framework for managers to facilitate and scale inclusive Open science practices](https://eartharxiv.org/repository/view/4560/). Preprint
 
 Lowndes. 2019. [Open software mean kinder science](https://blogs.scientificamerican.com/observations/open-software-means-kinder-science). Scientific American.

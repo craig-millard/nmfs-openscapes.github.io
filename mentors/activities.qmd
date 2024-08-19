@@ -2,7 +2,15 @@
 title: "Current Activities"
 ---
 
-## October-December 2023: NMFS Mentors Cohort!
+## Summer-Fall 2024
+
+To kick off Mentors activities, we will focus on preparing for and leading three fall Champions Cohorts. Immediate activities will include scheduling and communicating the opportunity with colleagues, including sending emails, giving talks, ask-me-anythings, and helping folks sign up.
+
+[Kickoff slides](https://docs.google.com/presentation/d/1a_nDKAxpvaWURITBm_HiDvzCd7GLDmb8ooi-d0dRI5I/edit#slide=id.g28f9ffc64ff_0_0)
+
+## Previous Activities
+
+### October-December 2023: NMFS Mentors Cohort!
 
 <!--- **Please join us: nominate yourself in [this Google Form](https://forms.gle/LJF9gTZCX7ThTzSm9) by Sept 23!**   
 **["Is this for me?" 5-min slides](https://docs.google.com/presentation/d/1cSLanri2GM_zKYgI4MzzSdwN1U6WIm01atInGeohTJw/edit?usp=sharing)** --->
@@ -11,13 +19,13 @@ Through facilitation and practical training for mentoring, teaching, and coachin
 
 The FY24 mentor cohort will start with a mentors-only Openscapes Champions cohort (facilated bi-weekly group meetings) during which Openscapes will guide the mentor cohort in discussing the needs and challenges for adoption of Open Science in NMFS and to develop actions to take. The facilitated meeting are vitual and twice monthly. Mentors will also collaborate asynchronously (e.g. Google Chat, GitHub). During the fall session, mentors will learn and practice coaching and mentoring skills in preparation for the winter Champions cohorts. We will also start identifying cross-center roadblocks that mentors can collaborate on throughout the next years. 
 
-### Timeline & topics {#sec-timeline} 
+#### Timeline & topics {#sec-timeline} 
 
 - **Dates: Twice monthly starting October 17, 2023** 
 - **Times: 12:00 - 1:30pm PT / 3:00 - 4:30 pm ET** < note revised time
 - **Location: Remotely, via Google Meet**
 
-#### Mentor Calls 
+##### Mentor Calls 
 
 **Mentor Calls** are when we convene as a group to learn and plan. Agendas are accessible to Cohort participants in our [Cohort Google Folder](https://drive.google.com/drive/u/0/folders/1fRSHpLQmAgq_H0rxCF3ryyOhkH1Cy8D7); they are also an archive of our live notetaking. 
 
@@ -29,7 +37,7 @@ Date | Mentor Call Topics
 11/28 | 4. Supporting teams to tackle workflow change through the Champions Program <!--- Facilitating discussions and developing team culture  Julie is point: lecture on the Openscapes method of facilitating discussions)? --->
 12/12 | 5. Reflections and shaping future plans <!-- Julie is point: Guest Alexis Hunzinger -->
 
-#### Seaside Chats
+##### Seaside Chats
 
 **Seaside Chats** are for small-group coworking in weeks alternating between Mentor Calls. Topics are to reflect with your other center mentors in-between cross-center cohort calls. Note particants from different centers or offices can have Seaside chats together. We will organize our Seaside chats after the first mentor calls. 
 
@@ -39,8 +47,6 @@ Week of 10/23 | Begin work on an Open Science Pathway for your center, office or
 Week of 11/6  | Keep working Open Science Pathway for your center, office or program with specific discussions of needs/challenges
 Week of 11/20 | Cross-FMC discussions of Open Science Pathways and work on shared organizing with GitHub
 Week of 12/4. | Discuss ideas and plans for coordinating & engaging staff in Open Science goals
-
-## Previous Activities
 
 ### January-June 2023
 
