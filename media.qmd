@@ -52,8 +52,7 @@ Here are some recent talks highlighting NOAA Fisheries work alongside other Open
 
 ## Publications
 
-Lowndes et al. [Shifting institutional culture to develop climate solutions with Open Science](https://eartharxiv.org/repository/view/5948/), preprint, 2023.
-
+Julia Stewart Lowndes, Anna M. Holder, Emily H. Markowitz, Corey Clatterbuck, Amanda L. Bradford, Kathryn Doering, Molly H. Stevens, Stefanie Butland, Devan Burke, Sean Kross, Jeffrey W. Hollister, Christine Stawitz, Margaret C. Siple, Adyan Rios, Jessica Nicole Welch, Bai Li, Farnaz Nojavan, Alexandra Davis, Erin Steiner, Josh M. London, Ileana Fenwick, Alexis Hunzinger, Juliette Verstaen, Elizabeth Holmes, Makhan Virdi, Andrew P. Barrett, Erin Robinson (2024). [Shifting institutional culture to develop climate solutions with Open Science](https://doi.org/10.1002/ece3.11341). *Ecology and Evolution*, 14, e11341. 
 
 Bastille, Kimberly, Sean Hardison, Lynn deWitt, Jennifer Brown, Jameal Samhouri, Sarah Gaichas, Sean Lucey, et al. 2021. "Improving the IEA Approach Using Principles of Open Data Science." Coastal Management 49 (1): 72--89. <https://doi.org/10.1080/08920753.2021.1846155>.
 
