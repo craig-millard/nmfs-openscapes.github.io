@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://nmfs-openscapes.github.io/blog.html</loc>
-    <lastmod>2024-08-19T13:47:54.040Z</lastmod>
+    <lastmod>2024-08-19T18:20:38.740Z</lastmod>
   </url>
   <url>
     <loc>https://nmfs-openscapes.github.io/mentors/mentor-calls.html</loc>
@@ -159,5 +159,9 @@
   <url>
     <loc>https://nmfs-openscapes.github.io/mentors/activities.html</loc>
     <lastmod>2024-08-19T13:38:27.058Z</lastmod>
+  </url>
+  <url>
+    <loc>https://nmfs-openscapes.github.io/blog/2024-08-19-biden-harris-noaa-fisheries/index.html</loc>
+    <lastmod>2024-08-19T18:20:40.754Z</lastmod>
   </url>
 </urlset>
