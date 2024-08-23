@@ -2,7 +2,7 @@
 title: "Openscapes Champions Cohorts"
 ---
 
-The NMFS Openscapes Mentor Community will be leading 3 Champions Cohorts in Fall 2024! Read on to learn what this is and how to sign up. 
+The NMFS Openscapes Mentor Community will be leading 3 Champions Cohorts in Fall 2024! Read on to learn what this is and how to sign up.
 
 [SIGN UP FOR FALL](https://nmfs-openscapes.github.io/champions.html#sign-up-for-fall-2024)
 
@@ -12,50 +12,63 @@ Openscapes Champions is a remote-by-design, cohort-based mentorship program that
 
 Through Openscapes cohorts, you focus on your own work with your team. As the program introduces modern concepts, tooling, and examples from your peers for collaborative open data science, your team focuses on where you are and where you want to go together. **Openscapes Champions is "not your traditional training/workshop" because teams:**
 
-- Have real-world experiential learning: developing psychological safety and habits for implementing change
-- Learn together and get unstuck: Teams identify and make progress on barriers as Openscapes introduces modern concepts, tooling, and examples from peers
-- Work on what is important to them, often something hard to do. Something they want to change. 
+-   Have real-world experiential learning: developing psychological safety and habits for implementing change
+-   Learn together and get unstuck: Teams identify and make progress on barriers as Openscapes introduces modern concepts, tooling, and examples from peers
+-   Work on what is important to them, often something hard to do. Something they want to change.
 
 ## Champions Program Details
 
-**Fall NMFS Openscapes Champions Cohorts will run from October-December 2024!** We will meet as a cohort five times over two months, on alternating weeks, with additional optional coworking times. 
+**Fall NMFS Openscapes Champions Cohorts will run from October-December 2024!** We will meet as a cohort five times over two months, on alternating weeks, with additional optional coworking times.
 
-- **Date-Times**: 
-  - **Cohort-A: Oct 8, 22, Nov 5, 19, Dec 3**. Alternating Tuesdays from 11:00am - 12:30pm PT. 
-  - **Cohort-B: Oct 9, 23, Nov 6, 20, Dec 4**. Alternating Wednesdays from 10:00 - 11:30am PT. 
-  - **Cohort-C: Oct 9, 23, Nov 6, 20, Dec 4**. Alternating Wednesdays from 1:00 - 2:30pm PT.   
-
+-   **Date-Times**:
+    -   **Cohort-A: Oct 8, 22, Nov 5, 19, Dec 3**. Alternating Tuesdays from 11:00am - 12:30pm PT.
+    -   **Cohort-B: Oct 9, 23, Nov 6, 20, Dec 4**. Alternating Wednesdays from 10:00 - 11:30am PT.
+    -   **Cohort-C: Oct 9, 23, Nov 6, 20, Dec 4**. Alternating Wednesdays from 1:00 - 2:30pm PT.
 -   **Where:** remotely, via Google Meet
--   **What we learn:** [Champions program core lessons](https://openscapes.github.io/series), with NOAA Fisheries examples 
+-   **What we learn:** [Champions program core lessons](https://openscapes.github.io/series), with NOAA Fisheries examples
 -   **Cost:** Free; this opportunity is supported by NOAA funding to Openscapes
 -   **Expected time commitment:** 8hrs/month for 2 months is a minimum expected time commitment. This accounts for 3 hours/month of synchronous Cohort Calls, optional Coworking hours, and team Seaside Chats where you plan with your research group to strengthen shared workflows.
 -   **Who:** Teams of NMFS staff interested in improving their workflows and/or open science — goals do not need to be well-defined (we'll develop goals throughout the 10 weeks). Team members do not all need to have technical or data interests, but share a curiosity and interest in improving something about how they work. It is not necessary for a whole research group to participate in the Cohort; often a team is a subset of a larger group that participates and then brings the information and energy back to the full group during in-between weeks. It is important that those who participate can do so in all or most sessions, and are energized to be interacting with like-minded individuals across NOAA Fisheries. Teams can also be collaborating in other ways and do not need to be a formal research group. If you are interested but think "I don't have a team" - you are welcome to sign up as an individual, or invite someone you know to sign up with you, even if you do not work on a shared deliverable! Your team can include feds, contractors, and others, so long as they can commit to the time.
 
-
 ## Sign up for Fall 2024
 
-**Sign up with a colleague or team by Sept 23, 2024 via [this Google Spreadsheet](https://docs.google.com/spreadsheets/d/10zTz6i-ZuwnQhCTG63jRku0BtVwgc9e1tqnfGuiyM2c/edit?gid=1241468325#gid=1241468325)**. Please indicate the Cohort date-times you are available; we will confirm participation via email by Sept 25. 
-
+**Sign up with a colleague or team by Sept 23, 2024 via [this Google Spreadsheet](https://docs.google.com/spreadsheets/d/10zTz6i-ZuwnQhCTG63jRku0BtVwgc9e1tqnfGuiyM2c/edit?gid=1241468325#gid=1241468325)**. Please indicate the Cohort date-times you are available; we will confirm participation via email by Sept 25.
 
 **What is a team?**
 
 > How you define "team" is completely up to you and having one person be in the cohort and using in-between session "seaside chats" to bring back the information to another group is 100% fine. That is common in the cohorts. In my first Openscapes cohort, I was the only person from my project. My personal goal was to use the Openscapes structure to help a team that I am on figure out how to tackle some off-boarding tasks due to a retirement. During my second cohort, there were 2 team members in the cohort and 2 not in the cohort. We focused on standardizing our data to get ready for our GitHub served data package. For the 3rd cohort I am doing, 2⁄3 of our team is in the cohort as we start to get organized for a major revamp of our report into a reproducible workflow. - **Eli Holmes (NMFS Open Science, NWFSC, NMFS Openscapes)**
 
-See [frequently asked questions](https://openscapes.org/faq) for more  guidance on forming teams. 
+See [frequently asked questions](https://openscapes.org/faq) for more guidance on forming teams.
 
 ## Mentor roles
 
 The growing NMFS Openscapes Mentor community — staff from across NOAA Fisheries interested in supporting others with teamwork and open science — will be increasingly involved with Champions Cohorts, and point-people for questions about what is involved and how to sign up.
 
 ### Pre-cohort engagement
-To share about the opportunity, our goal in September is to give a talk at each Center/Regional Office. Here are work-in-progress [slides introducing the Fall 2024 Champions Program ](https://docs.google.com/presentation/d/1a_nDKAxpvaWURITBm_HiDvzCd7GLDmb8ooi-d0dRI5I/edit?usp=sharing) with background information we can all use to present.
+
+To share about the opportunity, our goal in September is to give a talk at each Center/Regional Office. Here are work-in-progress [slides introducing the Fall 2024 Champions Program](https://docs.google.com/presentation/d/1a_nDKAxpvaWURITBm_HiDvzCd7GLDmb8ooi-d0dRI5I/edit?usp=sharing) with background information we can all use to present.
+
+#### **How to request a “Why Openscapes” talk & AMA**
+
+Want help encouraging your colleagues to sign up? To request a presentation & AMA, select a time from Eli’s calendar and add Julie (julia at openscapes.org) and Stefanie (stefanie at openscapes.org).
+
+Table. Upcoming presentations
+
+|            |            |                   |                              |                               |                           |
+|-----------|----------|------------|--------------|--------------|--------------|
+| **Date**   | **Time**   | **Center/Office** | **Event info name / length** | **Mentor/Point person**       | **Speaker**               |
+| 2024-08-29 | 2:30 pm PT | SWFSC             | Info session / 20 min        | Lynn DeWitt, Heather Nicholas | Eli Holmes, Julie Lowndes |
+|            |            |                   |                              |                               |                           |
+|            |            |                   |                              |                               |                           |
+|            |            |                   |                              |                               |                           |
+
+Upcoming presentations are listed in the [Sign up sheet, “Talks, AMA Schedule”](https://docs.google.com/spreadsheets/d/10zTz6i-ZuwnQhCTG63jRku0BtVwgc9e1tqnfGuiyM2c/edit?gid=1423956583#gid=1423956583) tab.
 
 ### During cohort
 
-Mentors participate in the Champions Program (in fact, Champions cohorts are scheduled as "takeovers" of regular Mentors calls to be mindful of Mentors' time commitments). Here are several roles where Mentors can contribute: 
+Mentors participate in the Champions Program (in fact, Champions cohorts are scheduled as "takeovers" of regular Mentors calls to be mindful of Mentors' time commitments). Here are several roles where Mentors can contribute:
 
-- Participant (bring your team as Champions)
-- Mentor (Content expert, model live notetaking, contribute to debriefing)
-- Guest teacher - running a themed Seaside Chat, or (learn to) lead GitHub clinics
-- Helpers - Coworking / Seaside Chat (fix merge conflict, add documentation)
-
+-   Participant (bring your team as Champions)
+-   Mentor (Content expert, model live notetaking, contribute to debriefing)
+-   Guest teacher - running a themed Seaside Chat, or (learn to) lead GitHub clinics
+-   Helpers - Coworking / Seaside Chat (fix merge conflict, add documentation)
