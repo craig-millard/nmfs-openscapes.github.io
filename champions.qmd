@@ -50,19 +50,19 @@ To share about the opportunity, our goal in September is to give a talk at each 
 
 #### **How to request a “Why Openscapes” talk & AMA**
 
-Want help encouraging your colleagues to sign up? To request a presentation & AMA, select a time from Eli’s calendar and add Julie (julia at openscapes.org) and Stefanie (stefanie at openscapes.org).
+Want help encouraging your colleagues to sign up? To request a presentation & AMA, select a time from Eli’s calendar and add Julie (julia at openscapes.org) and Stefanie (stefanie at openscapes.org). Eli has cleared Sept 2-14 for giving these presentations.\
+\
+Please add sessions to [Sign up sheet, 'Talks, AMA Schedule'](https://docs.google.com/spreadsheets/d/10zTz6i-ZuwnQhCTG63jRku0BtVwgc9e1tqnfGuiyM2c/edit?gid=1423956583#gid=1423956583) tab and to the NMFS Open Science Google Calendar so others can find it. Stef will add them to the following table.
 
-Table. Upcoming presentations
+Table. Center / Office presentations
 
 |            |            |                   |                              |                               |                           |
-|-----------|----------|------------|--------------|--------------|--------------|
+|------------|------------|------------|------------|------------|------------|
 | **Date**   | **Time**   | **Center/Office** | **Event info name / length** | **Mentor/Point person**       | **Speaker**               |
 | 2024-08-29 | 2:30 pm PT | SWFSC             | Info session / 20 min        | Lynn DeWitt, Heather Nicholas | Eli Holmes, Julie Lowndes |
 |            |            |                   |                              |                               |                           |
 |            |            |                   |                              |                               |                           |
 |            |            |                   |                              |                               |                           |
-
-Upcoming presentations are listed in the [Sign up sheet, “Talks, AMA Schedule”](https://docs.google.com/spreadsheets/d/10zTz6i-ZuwnQhCTG63jRku0BtVwgc9e1tqnfGuiyM2c/edit?gid=1423956583#gid=1423956583) tab.
 
 ### During cohort
 
