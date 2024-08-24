@@ -82,13 +82,13 @@ Please add sessions to [Sign up sheet, 'Talks, AMA Schedule'](https://docs.googl
 
 Table. Center / Office presentations
 
-|            |            |                   |                              |                               |                           |
+|            |            |                   |                              |                                    |                           |
 |------------|------------|------------|------------|------------|------------|
-| **Date**   | **Time**   | **Center/Office** | **Event info name / length** | **Mentor/Point person**       | **Speaker**               |
-| 2024-08-29 | 2:30 pm PT | SWFSC             | Info session / 20 min        | Lynn DeWitt, Heather Nicholas | Eli Holmes, Julie Lowndes |
-|            |            |                   |                              |                               |                           |
-|            |            |                   |                              |                               |                           |
-|            |            |                   |                              |                               |                           |
+| **Date**   | **Time**   | **Center/Office** | **Event info name / length** | **Mentor/Point person**            | **Speaker**               |
+| 2024-08-29 | 2:30 pm PT | SWFSC             | Info session / 20 min        | Lynn DeWitt, Heather Nicholas      | Eli Holmes, Julie Lowndes |
+| 2024-09-02 | 3:00 pm ET | SEFSC             | Tentative info session       | Ana Vaz, Molly Stevens, Adyan Rios |                           |
+|            |            |                   |                              |                                    |                           |
+|            |            |                   |                              |                                    |                           |
 
 ### During cohort
 
