@@ -83,12 +83,12 @@ Please add sessions to [Sign up sheet, 'Talks, AMA Schedule'](https://docs.googl
 Table. Center / Office presentations
 
 |            |            |                   |                              |                                    |                           |
-|------------|------------|------------|------------|------------|------------|
-| **Date**   | **Time**   | **Center/Office** | **Event info name / length** | **Mentor/Point person**            | **Speaker**               |
-| 2024-08-29 | 2:30 pm PT | SWFSC             | Info session / 20 min        | Lynn DeWitt, Heather Nicholas      | Eli Holmes, Julie Lowndes |
-| 2024-09-02 | 3:00 pm ET | SEFSC             | Tentative info session       | Ana Vaz, Molly Stevens, Adyan Rios |                           |
-|            |            |                   |                              |                                    |                           |
-|            |            |                   |                              |                                    |                           |
+|------------|------------|------------|------------|------------|------------|------------|
+| **Date**   | **Time**   | **Center/Office** | **Event info name / length** | **Mentor/Point person**            | **Speaker**               | **Google Meet link** |
+| 2024-08-29 | 2:30 pm PT | SWFSC             | Info session / 20 min        | Lynn DeWitt, Heather Nicholas      | Eli Holmes, Julie Lowndes | https://meet.google.com/nuh-xaap-yph |
+| 2024-09-02 | 3:00 pm ET | SEFSC             | Tentative info session       | Ana Vaz, Molly Stevens, Adyan Rios | Eli Holmes, Julie Lowndes |                                      |
+| 2024-09-04 | 9:00 am HT | PIFSC             | PIFSC Openscapes Q&A / 50-min session | Amanda Bradford           | Eli Holmes, Julie Lowndes | https://meet.google.com/gbo-ankc-sme |
+|            |            |                   |                              |                                    |                           |                                      |
 
 ### During cohort
 
